@@ -1,0 +1,18 @@
+#app {
+	width: 500px;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+.each-task {
+	width: 300px;
+	margin-right: 10px;
+}
+
+.new-task {
+	width: 200px;
+	margin-right: 10px;
+}
